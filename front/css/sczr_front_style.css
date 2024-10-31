@@ -1,0 +1,26 @@
+.sczr_front_display{ width:700px; height:auto; position:relative; } 
+.sczr_sec_link{ width:auto; height:auto; }
+.sectionizer_top{ border: 1px solid #CCCCCC; height: auto; left:0; position: fixed; top: 0; width: auto; }
+.sectionizer_leftcenter { border: 1px solid #CCCCCC; height: auto; position: fixed; width: auto; left:0; }
+.sectionizer_leftbottom{ border: 1px solid #CCCCCC; bottom: 0; left:0; height: auto; position: fixed; width: auto; }
+.sectionizer_RightCenter{ border: 1px solid #CCCCCC; height: auto; position: fixed; width: auto; right:0; } 
+.sectionizer_RightBottom{ border: 1px solid #CCCCCC; bottom: 0; height: auto; position: fixed; width:auto; right:0; } 
+.sectionizer_righttop{ border: 1px solid #CCCCCC; height: auto;  position: fixed; top: 0; right:0; width:auto; }
+.sectionizer_top ul, .sectionizer_leftbottom ul, .sectionizer_RightBottom ul, .sectionizer_righttop ul,.sectionizer_leftcenter ul, .sectionizer_RightCenter ul{width:100%; height:auto; padding:0px; margin:0px; float:left }
+.sectionizer_top ul li, .sectionizer_leftcenter ul li,.sectionizer_leftbottom ul li,.sectionizer_RightBottom ul li,.sectionizer_righttop ul li,.sectionizer_RightCenter ul li {border-bottom: 1px inset; height: auto; list-style-type: none; padding: 10px; }
+.Horizontal_top .sczr_sec_link ul,.Horizontal_bottom .sczr_sec_link ul{ width:100%; margin:0px; padding:0px; }
+.Horizontal_top .sczr_sec_link ul li,.Horizontal_bottom  .sczr_sec_link ul li { height:auto; list-style-type:none; padding:10px; border-right: 1px inset; float: left; cursor:pointer ; margin:0px; }
+.sczr_front_display .sczr_front_sectionizer div.sczr_social{ padding:8px; float:left; }
+.sczr_social{ padding:8px; float:left; }
+.sczr_scroll_btn{ background-image: url("../../images/ScrollTop.png"); background-repeat: no-repeat; cursor: pointer; float: left; font-family: verdana; font-size: 13px; font-weight: bold; height: 25px;	 width:auto; margin:10px; } 
+.szcr_front_hide{ display:none;}
+.sczr_fbicon{ background-image:url("../../images/fb.png"); background-repeat: no-repeat; width:29px; height:29px; float:left; padding-right: 2px; }
+.sczr_fbicon:hover{background-image:url("../../images/facebook.png"); background-repeat: no-repeat;}
+.sczr_tweeticon{ background-image:url("../../images/tweet.png"); background-repeat: no-repeat; 	width:29px; height:29px; float:left; padding-right: 2px;}
+.sczr_tweeticon:hover{ background-image:url("../../images/twitter.png"); background-repeat: no-repeat; }
+.sczr_linkicon{ background-image:url("../../images/link.png"); background-repeat: no-repeat; 	width:29px; height:29px; float:left; padding-right: 2px;}
+.sczr_linkicon:hover{ background-image:url("../../images/linkedin.png"); background-repeat: no-repeat; }
+.sczr_gogleicon{ background-image:url("../../images/gogle.png"); background-repeat: no-repeat; 	width:29px; height:29px; float:left; padding-right: 2px; }
+.sczr_gogleicon:hover{ background-image:url("../../images/sgooglepluse.png"); background-repeat: no-repeat; }
+.sczr_rssicon{ background-image:url("../../images/rs.png"); background-repeat: no-repeat; 	width:29px; height:29px; float:left; padding-right: 2px; }
+.sczr_rssicon:hover{ background-image:url("../../images/srss.png"); background-repeat: no-repeat; }

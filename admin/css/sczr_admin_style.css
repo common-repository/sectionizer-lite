@@ -1,0 +1,29 @@
+.sczr_wrapper{ width:575px; height:auto; } 
+.sczr_section { border:1px dashed black; width:100%; height:auto; color:black; font-size:12px; } 
+.sczrwrapper{ margin-bottom:20px; }
+.sczrwrapper h2{ float:left; width:auto; }
+.sczr_wrapper .postbox h3.hndle span{ color: #000000; font-size: 18px; height: 20px; padding: 10px; } 
+.sczr_edit_form{ width: 754px;  }
+.sczr_edit_form  h3{padding:6px; } 
+.sczr_edit_form  h3.hndle span{margin:10px; }
+.sczr_delete_btn{ background: none repeat scroll 0 0 #D84949; border: 1px solid #D84949; border-radius: 3px 3px 3px 3px; color: #FFFFFF; font-size: 12px; padding: 4px 10px; text-decoration: none; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1); }  
+.sczr_delete_btn:hover{background: none repeat scroll 0 0 #FDB944; border: 1px solid #F9B03F; border-radius: 3px 3px 3px 3px; color: red; font-size: 12px; padding: 4px 10px; text-decoration: none; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1); } 
+.sczr_addnew_textbox{ border: 1px solid #AAAAAA; width:300px; margin-right:20px; } 
+.sczr_row {    border-bottom: 1px solid #DFDFDF; font-size: 13px; height: 20px; padding-bottom: 12px; padding-top: 15px; }
+.sczr_show_message{ background: none repeat scroll 0 0 #125E7C; border-radius: 3px 3px 3px 3px; color: #FFFFFF; font-family: Georgia; font-weight: bold; line-height: 30px; margin-top: 20px; text-align: center; width: 575px; } 
+.sczr_showmessage{ background: none repeat scroll 0 0 #125E7C; border-radius: 3px 3px 3px 3px; color: #FFFFFF; font-family: Georgia; font-weight: bold; line-height: 30px; margin-top: 20px; text-align: center; width: 575px; } 
+.sczr_wrapper div.postbox{ margin-bottom:0px; }
+#sczr_add_btn{font-size: 17px;font-weight: bold; margin-left: 10px; width: 184px;} 
+.add_sczr{ background: linear-gradient(to bottom, #EEEEEE 17%, #CCCCCC 88%) repeat scroll 0 0 transparent; height: auto; padding-bottom: 10px; padding-top:10px; width: 100%;}
+.sczr_edit_form { width:650px; height:auto; margin-top: 52px;}
+.sczr_col{ width:123px; float:left; height:auto; text-align: center; word-wrap: break-word; }
+.hide_row{display:none; }
+.show_row{display:table-row; }
+.sczr_hide_textarea{display:none; }
+.sczr_show_textarea{display:block; }
+.sczr_edit_form  .sczr_colwrap, .sczr_edit_form  .sczr_text_color {display: inline-block; position: relative; width: 95px; } 
+.sczr_edit_form .sczr_colsel, .sczr_edit_form .sczr_textcol { background: url("../../images/snbar_color_pick.png") repeat scroll 0 0 transparent; cursor: pointer; height: 26px; margin-top: 1px; position: absolute; right: -72px; top: -2px; width: 26px; } 
+.sczr_colwrap  .sczr_colsel div.farbtastic , .sczr_text_color .sczr_textcol div.farbtastic {display: none; position: absolute; top: -5px; z-index: 1; } 
+.sczr_edit_form  h3.hndle { margin-bottom:0px; }
+.sczr_selection option.sczr_options {width:150px;}
+#sczr_icon-theme{background: url("../../images/Sectionizewr.png")no-repeat scroll 0 0 transparent; height: 40px;width:40px;}
